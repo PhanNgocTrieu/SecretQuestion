@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 18px;
+    margin: 20px auto;
+    padding: 0;
+    max-width: 500px;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+}
+
+
+form {
+    margin: 10px 0;
+    padding: 20px;
+    border: none;
+}
+
+fieldset {
+    border: none;
+    padding: 10px;
+}
+
+input {
+    min-width: 500px;
+    min-height: 30px;
+}
